@@ -1,0 +1,23 @@
+body{
+
+
+}
+
+
+.float-right {
+    margin-left:1%;
+    float:left; 
+    height:auto;
+    width:200px; 
+    } 
+    
+    .left-part{
+    width=50%;
+    float:left;
+    }
+    
+    .right-part{
+    width=50%
+    float:right;
+    }
+    
